@@ -22,14 +22,22 @@ This project is designed to help job seekers understand how strong their resume 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="assets/screenshot1.png" alt="Home Page" width="800" />
+  <img src="assets/img1.png" alt="Home Page" width="800" />
   <p><em>Home Page</em></p>
 
-  <img src="assets/screenshot2.png" alt="Resume Analysis" width="800" />
+  <img src="assets/img2.png" alt="Resume Analysis" width="800" />
   <p><em>Resume Analysis</em></p>
 
-  <img src="assets/screenshot3.png" alt="Admin Dashboard" width="800" />
+  <img src="assets/img3.png" alt="Admin Dashboard" width="800" />
   <p><em>Admin Dashboard</em></p>
+
+  <img src="assets/img4.png" alt="Admin Dashboard" width="800" />
+
+  <img src="assets/img5.png" alt="Admin Dashboard" width="800" />
+  <img src="assets/img6.png" alt="Admin Dashboard" width="800" />
+  <img src="assets/img7.png" alt="Admin Dashboard" width="800" />
+
+
 </div>
 
 ## 🚀 Features
