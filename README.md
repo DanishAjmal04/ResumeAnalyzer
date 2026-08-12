@@ -67,23 +67,7 @@ This project is designed to help job seekers understand how strong their resume 
 6. The user can generate a tailored cover letter.
 7. The admin dashboard can review stored candidates and run AI-based screening.
 
-## 💻 Installation
 
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd AI-Resume-Analyzer
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the application
-```bash
-streamlit run app.py
-```
 
 ## 📬 Contact & Support
 
